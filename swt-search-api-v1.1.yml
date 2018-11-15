@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   description: The APIs described in this document are the public APIs used to build the Sony support web site (e.g. https://www.sony.co.uk/electronics/support). 
-  version: "1.0.1"
+  version: "1.1"
   title: Sony Support API
   contact:
     email: thibaut.bodart@sony.com
